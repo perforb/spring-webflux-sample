@@ -1,2 +1,4 @@
 # spring-webflux-sample
-For study
+
+refer to https://spring.io/guides/gs/reactive-rest-service/
+
